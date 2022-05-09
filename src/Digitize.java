@@ -1,4 +1,4 @@
-public class Kata {
+public class Digitize {
     public static int[] digitize(long n) {
         int length = String.valueOf(n).length();
         String nbr = String.valueOf(n);
